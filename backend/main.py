@@ -42,7 +42,7 @@ from backend.ai_coach_engine import (
 # GEMINI API CONFIGURATION
 # -------------------------------------------------
 
-GEMINI_API_KEY = "AIzaSyC48wVGx9ge88UXK5vx07oSPFeSyIsSCJY"
+GEMINI_API_KEY = ""
 
 genai.configure(api_key=GEMINI_API_KEY)
 
